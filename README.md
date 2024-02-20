@@ -44,5 +44,5 @@ O programa consiste em uma função, que recebe a qauntidade de vitórias e derr
 - **Usando if/else**: Não era preciso colocar repetidas vezes o `console.log` como eu fiz, bastava, assim como feito no switch/case, criar uma variavel e armazenar um rank e colocar a mensagem no `return` e concatena-la com o rank.
 
 ## Considerações Finais
-Este desafio foi feito ao final do e outros desafios você encontra na DIO ([Digital Innovation One](https://digitalinnovation.one/)). 
+Este e outros desafios você encontra na DIO ([Digital Innovation One](https://digitalinnovation.one/)). 
 
